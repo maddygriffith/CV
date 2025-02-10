@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-Sean Purcell is a digital health humanist who works at UCSF>
+Maddy Griffith is a Project Manager with the Innovations for Choice and Autonomy (ICAN) implementation research project in Kenya, Malawi, Nigeria, and Uganda. She oversees the implementation research and program evaluation workstreams in Nigeria and Uganda, and supports qualitative and quantitative data management and analysis as well. She also manages two DCE-focused research projects: one on self-managed abortion preferences in Mississippi, and another on PrEP preferences among young men in South Africa. She has extensive experience with clinical research coordination and project management, and is interested in promoting reproductive health and education for all, particularly underserved populations. Maddy completed her MPH in Maternal, Child, and Adolescent Health at UC Berkeley, and her BS in Biopsychology at UC Santa Barbara.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-- **Digital Health Humanities:** I do things.
+- **Sexual and Reproductive Health** 
+- **Public Health** 
+- **Reaching Underserved Populations** 
 
 {% include_relative _includes/education.md %}
 
