@@ -1,7 +1,8 @@
 # Basic Information 
 title: Maddy Griffith # your name goes here
+pronouns: she/her
 position: Program Policy Analyst III # your position title goes here
-affiliation: University of California San Francisco # your affiliated school goes here
+affiliation: University of California, San Francisco # your affiliated school goes here
 email: madeline.griffith@ucsf.edu # your email goes here
 
 # Search Engine Optimization (SEO)
@@ -20,7 +21,8 @@ description: The Minimal Light is a simple and elegant jekyll theme for academic
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/headshot.png # you can add your own custom headshot or avatar here.
+# avatar: ./assets/img/headshot.png # you can add your own custom headshot or avatar here.
+![Maddy Griffith headshot!](/assets/img/headshot.png "Maddy Griffith headshot")
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
