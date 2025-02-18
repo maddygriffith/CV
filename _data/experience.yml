@@ -5,19 +5,33 @@ main:
     institution: University of California, Berkeley
     department: Maternal, Child, and Adolescent Health
     #advisors: Jane Doe, John Doe # for type.education.
-    Capstone: "<i> Contraceptive method recommendations to two unique mystery client profiles in Nigeria </i>" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    thesis: "<i> Contraceptive method recommendations to two unique mystery client profiles in Nigeria </i>" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
     years: 2021 - 2023
-
   - type: education
     degreepath: Bachelors of Science, Biopsychology # for type.education.
     institution: University of California, Santa Barbara
     years: 2011 - 2015
     
   - type: job
-    title: Example Job # for type.employment.
-    institution: University University
-    department: Department
-    years: 2024 - Present
+    title: Project Policy Analyst III # for type.employment.
+    institution: University of California, San Francisco
+    department: Institute for Health & Aging
+    years: June 2023 - Present
+  - type: job
+    title: Student Intern # for type.employment.
+    institution: University of California, San Francisco
+    department: Institute for Health & Aging
+    years: March 2022 - May 2023
+  - type: job
+    title: Clinical Research Supervisor & Protocol Project Manager # for type.employment.
+    institution: University of California, San Francisco
+    department: Gastrointestinal Oncology Clinical Research
+    years: May 2019 - May 2023
+  - type: job
+    title: Clinical Research Coordinator # for type.employment.
+    institution: University of California, San Francisco
+    department: Gastrointestinal Oncology Clinical Research
+    years: January 2017 - April 2019
     
   - type: service
     title: A role
